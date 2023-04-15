@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=superPtr&theme=radical"/>
  </div>
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=superPtr&theme=dark&show_icons=true"/>
+ </div>
 
 <!--
 **superPtr/superPtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
