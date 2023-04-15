@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=superPtr&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api?username=superPtr&theme=dark&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=superPtr&show_icons=true&locale=en&layout=compact"/>
  </div>
   
 
